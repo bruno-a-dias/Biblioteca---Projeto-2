@@ -323,3 +323,5 @@ No Render, o comando de start é `gunicorn config.wsgi`.
 - Agendar `atualizar_atrasados` (Agendador de Tarefas do Windows ou cron) para manter o `status` sincronizado.
 - Reservas de livros esgotados, capas de livros e envio de e-mail de aviso de vencimento.
 - Trocar SQLite por PostgreSQL em produção.
+
+- Teste dePull Request
